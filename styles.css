@@ -27,7 +27,7 @@ body {
 body::before {
   content: "";
   display: block;
-  height: 6px;
+  height: 4px;
   background: var(--accent);
 }
 
